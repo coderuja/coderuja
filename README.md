@@ -20,10 +20,10 @@ to practical projects that solve real-world problems.
 ---
 ## 🛠️ Technologies & Tools
 ### Languages
-Python • C++ • Java  • C
+Python • HTML  • C
 
 ### Currently Learning
-DSA • AI/ML • Operating Systems • OOP
+DSA • AI/ML • Operating Systems • OOP • Java
 
 ### Tools
 Git • GitHub • VS Code
